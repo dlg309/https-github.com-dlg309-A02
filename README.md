@@ -2,7 +2,7 @@
 IS 117 A02
 
 
-Part 1: Git, Visual Studio Code, and GitHub Tutorial
+  Part 1: Git, Visual Studio Code, and GitHub Tutorial
 
 Step 1: Create a **GitHub** Account
 Go to https://github.com 
@@ -34,7 +34,10 @@ Check the "Add a README file" option
 Click Create **Repository**
 
 
-Part 2 - Glossary of Terms
+
+
+
+  Part 2 - Glossary of Terms
 Branch - Think of this as your own lane in a project. It lets you work on new features or fixes without messing with the main code.
 
 Clone - This just means making a copy of a remote repository on your computer so you can work on it locally.
