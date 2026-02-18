@@ -38,6 +38,8 @@ Click Create **Repository**
 
 
   Part 2 - Glossary of Terms
+
+  
 Branch - Think of this as your own lane in a project. It lets you work on new features or fixes without messing with the main code.
 
 Clone - This just means making a copy of a remote repository on your computer so you can work on it locally.
